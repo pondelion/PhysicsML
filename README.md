@@ -1,1 +1,1 @@
-# PhysicsML
+# Physics × MachineLearning
